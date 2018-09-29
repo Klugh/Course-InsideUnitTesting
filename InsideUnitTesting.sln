@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsideUnitTesting", "InsideUnitTesting\InsideUnitTesting.csproj", "{8BA7E94A-88DE-4523-A817-4D3CEB626068}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsideUnitTesting", "InsideUnitTesting\InsideUnitTesting.csproj", "{8BA7E94A-88DE-4523-A817-4D3CEB626068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsideUnitTesting.Tests", "InsideUnitTesting.Tests\InsideUnitTesting.Tests.csproj", "{6B189EA7-9C1E-440D-9B4D-75562DA63083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8BA7E94A-88DE-4523-A817-4D3CEB626068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA7E94A-88DE-4523-A817-4D3CEB626068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA7E94A-88DE-4523-A817-4D3CEB626068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B189EA7-9C1E-440D-9B4D-75562DA63083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B189EA7-9C1E-440D-9B4D-75562DA63083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B189EA7-9C1E-440D-9B4D-75562DA63083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B189EA7-9C1E-440D-9B4D-75562DA63083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
